@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10732" started-at="2016-09-11T03:21:06Z" finished-at="2016-09-11T03:21:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10732" started-at="2016-09-11T03:21:06Z" finished-at="2016-09-11T03:21:17Z">
+      <class name="com.pingxx.selenium.example.ExampleTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.pingxx.selenium.example.ExampleTest@7a0ac6e3]" name="beforeTest" is-config="true" duration-ms="52" started-at="2016-09-11T11:21:06Z" finished-at="2016-09-11T11:21:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="OpenHomePageTest()[pri:0, instance:com.pingxx.selenium.example.ExampleTest@7a0ac6e3]" name="OpenHomePageTest" duration-ms="10651" started-at="2016-09-11T11:21:06Z" finished-at="2016-09-11T11:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenHomePageTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.pingxx.selenium.example.ExampleTest@7a0ac6e3]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-09-11T11:21:17Z" finished-at="2016-09-11T11:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.pingxx.selenium.example.ExampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
